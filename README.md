@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://user-images.githubusercontent.com/84012921/137657569-e668df52-a5f9-498b-b6a3-740d3c4f6d74.mp4
 <!--
 **lukekonsta7/lukekonsta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://user-images.githubusercontent.com/84012921/137657569-e668df52-a5f9-498b-b6a3-740d3c4f6d74.mp4
+
+
 -->
