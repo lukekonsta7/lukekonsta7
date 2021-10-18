@@ -1,6 +1,6 @@
 Welcome
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/84012921/137657774-273f1ed0-820a-4244-9d0c-8f1be0f63d56.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/84012921/137657907-a49190b8-2588-4f14-b2b5-7ab2189fc608.gif)
 
 <!--
 **lukekonsta7/lukekonsta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
