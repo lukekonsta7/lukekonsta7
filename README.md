@@ -1,5 +1,7 @@
-### Hi there 👋
-https://user-images.githubusercontent.com/84012921/137657569-e668df52-a5f9-498b-b6a3-740d3c4f6d74.mp4
+Welcome
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/84012921/137657774-273f1ed0-820a-4244-9d0c-8f1be0f63d56.gif)
+
 <!--
 **lukekonsta7/lukekonsta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
